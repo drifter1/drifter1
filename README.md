@@ -9,9 +9,9 @@ And I'm still posting articles, be it tutorials for Languages and specific Libra
 Because of some stuff that happened on Steemit, I'm now following the Hive fork. Thus, you can find me posting over on [PeakD](https://peakd.com/@drifter1).
 
 My current Repositories are the following (in no particular order):
-- [/blockchain](https://github.com/drifter1/blockchain) : Education Python Implementation of a Blockchain
+- [/blockchain](https://github.com/drifter1/blockchain) : Educational Python Implementation of a Blockchain
 - [/compiler](https://github.com/drifter1/compiler) : Simplified-C Compiler in C using Flex and Bison
-- [/circuitsim](https://github.com/drifter1/circuitsim) : Electronic Circuit Simulator
+- [/circuitsim](https://github.com/drifter1/circuitsim) : Electronic Circuit Simulator in Python
 - [/mod2linematrixmul](https://github.com/drifter1/mod2linematrixmul) : VHDL Implementation of Modulo2 Line by Matrix Multiplication 
 - [/javagraphalgorithms](https://github.com/drifter1/javagraphalgorithms) : Various Graph Algorithms implemented in Java
 - [/openmptutorials](https://github.com/drifter1/openmptutorials) : Tutorial code on the OpenMP Parallel Computing API
