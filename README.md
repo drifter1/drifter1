@@ -2,8 +2,6 @@
 
 ![https://tenor.com/view/pikachu-wave-gif-18373208](https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif)
 
-I am currently pursuing a Ph.D. in the field of Computer Science, with a particular focus on reconfigurable hardware.
-
 My current GitHub repositories are (in no particular order):
 - [/blockchain](https://github.com/drifter1/blockchain) : Educational Python Implementation of a Blockchain
 - [/compiler](https://github.com/drifter1/compiler) : Simplified-C Compiler in C using Flex and Bison
