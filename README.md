@@ -10,4 +10,4 @@ My current GitHub repositories are:
 - [/javagraphalgorithms](https://github.com/drifter1/javagraphalgorithms) : Various Graph Algorithms implemented in Java
 - [/openmptutorials](https://github.com/drifter1/openmptutorials) : Tutorial code on the OpenMP Parallel Computing API
 - [/cudatutorials](https://github.com/drifter1/cudatutorials) : Tutorial code on Nvidia's CUDA API
-- [/pypi-info-scraper](https://github.com/drifter1/pypi-info-scraper) : Source code of the PyPI scraper used in a SEEDA-CESNSM 2025 paper
+- [/pypi-info-scraper](https://github.com/drifter1/pypi-info-scraper) : Source code of the PyPI scraper used in a SEEDA-CECNSM 2025 paper
