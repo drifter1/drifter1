@@ -1,11 +1,8 @@
-<div align="center">
-<h3>It's a me drifter1!</h3>
-<img src="https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif">
-</div>
+### It's a me drifter1!
 
-<div align="center">
-<h3>Selected Public Repos</h3>
-</div>
+![https://tenor.com/view/pikachu-wave-gif-18373208](https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif)
+
+### Selected Public Repos
 
 - [/compiler](https://github.com/drifter1/compiler) : Simplified-C Compiler in C using Flex and Bison
 - [/blockchain](https://github.com/drifter1/blockchain) : Educational Python Implementation of a Blockchain
