@@ -2,7 +2,8 @@
 
 ![https://tenor.com/view/pikachu-wave-gif-18373208](https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif)
 
-My current GitHub repositories are:
+### Selected Public Repos
+
 - [/compiler](https://github.com/drifter1/compiler) : Simplified-C Compiler in C using Flex and Bison
 - [/blockchain](https://github.com/drifter1/blockchain) : Educational Python Implementation of a Blockchain
 - [/circuitsim](https://github.com/drifter1/circuitsim) : Electronic Circuit Simulator in Python
