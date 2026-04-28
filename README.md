@@ -12,3 +12,9 @@ My current GitHub repositories are:
 - [/cudatutorials](https://github.com/drifter1/cudatutorials) : Tutorial code on Nvidia's CUDA API
 - [/pypi-info-scraper](https://github.com/drifter1/pypi-info-scraper) : Source code of the PyPI scraper used in a SEEDA-CECNSM 2025 paper
 - [/vivado-tcl-examples](https://github.com/drifter1/vivado-tcl-examples) : AMD Vivado™ Design Suite Tcl Examples
+
+![](https://github.com/drifter1/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/drifter1/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/drifter1/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/drifter1github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
