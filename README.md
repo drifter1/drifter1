@@ -1,8 +1,7 @@
 <div align="center">
 <h3>It's a me drifter1!</h3>
+<img src="https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif">
 </div>
-
-![https://tenor.com/view/pikachu-wave-gif-18373208](https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif)
 
 <div align="center">
 <h3>Selected Public Repos</h3>
