@@ -1,8 +1,13 @@
-### It's a me drifter1!
+<div align="center">
+<h3>It's a me drifter1!</h3>
+<img src="assets/pikachu-wave.gif">
+</div>
 
-![https://tenor.com/view/pikachu-wave-gif-18373208](https://c.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif)
+---
 
-### Selected Public Repos
+<div align="center">
+<h3>Selected Public Repos</h3>
+</div>
 
 - [/compiler](https://github.com/drifter1/compiler) : Simplified-C Compiler in C using Flex and Bison
 - [/blockchain](https://github.com/drifter1/blockchain) : Educational Python Implementation of a Blockchain
@@ -23,3 +28,15 @@
 <img src="https://github.com/drifter1/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/drifter1/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </div>
+
+---
+
+<details align="center">
+<summary><h3>PC Specs</h3></summary>
+<b>CPU</b> : AMD Ryzen 9 5950X <br>
+<b>GPU</b> : NVIDIA GeForce RTX 5070 Ti <br>
+<b>Motherboard</b> : MSI MEG x570 UNIFY <br>
+<b>Storage</b> : Samsung SSD 990 EVO Plus 2 TiB <br>
+<b>Memory</b> : G.SKILL Trident Z DDR4 64 GiB (4 x 16GiB) <br>
+<b>OS</b> : Arch Linux x86_64, <b>Kernel</b>: Linux Zen, <b>DE</b> : KDE Plasma
+</details>
