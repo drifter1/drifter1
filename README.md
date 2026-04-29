@@ -1,6 +1,6 @@
 <div align="center">
 <h3>It's a me drifter1!</h3>
-<img src="assets/pikachu-wave.gif">
+<img src="assets/pikachu-wave.gif" >
 </div>
 
 ---
@@ -38,5 +38,5 @@
 <b>Motherboard</b> : MSI MEG x570 UNIFY <br>
 <b>Storage</b> : Samsung SSD 990 EVO Plus 2 TiB <br>
 <b>Memory</b> : G.SKILL Trident Z DDR4 64 GiB (4 x 16GiB) <br>
-<b>OS</b> : Arch Linux x86_64, <b>Kernel</b>: Linux Zen, <b>DE</b> : KDE Plasma
+<b>OS</b> : Arch Linux x86_64, <b>Kernel</b> : Linux Zen, <b>DE</b> : KDE Plasma
 </details>
