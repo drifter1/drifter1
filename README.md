@@ -18,7 +18,8 @@
 - [/cudatutorials](https://github.com/drifter1/cudatutorials) : Tutorial code on Nvidia's CUDA API
 - [/pypi-info-scraper](https://github.com/drifter1/pypi-info-scraper) : Source code of the PyPI scraper used in a SEEDA-CECNSM 2025 paper
 - [/vivado-tcl-examples](https://github.com/drifter1/vivado-tcl-examples) : AMD Vivado™ Design Suite Tcl Examples
-- [/karatsuba-c](https://github.com/drifter1/karatsuba-c) : Experimental Karatsuba Implementation in C 
+- [/karatsuba-c](https://github.com/drifter1/karatsuba-c) : Experimental Karatsuba Implementation in C
+- [/fsm2hdl](https://github.com/drifter1/fsm2hdl) : Extensible Python Framework for Generating Synthesizable HDL for FSMs
 
 ---
 
