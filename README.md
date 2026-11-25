@@ -15,7 +15,7 @@
 - [/mod2linematrixmul](https://github.com/drifter1/mod2linematrixmul) : VHDL Implementation of Modulo2 Line by Matrix Multiplication 
 - [/javagraphalgorithms](https://github.com/drifter1/javagraphalgorithms) : Various Graph Algorithms implemented in Java
 - [/vivado-tcl-examples](https://github.com/drifter1/vivado-tcl-examples) : AMD Vivado™ Design Suite Tcl Examples
-- [/quartus-tcl-examples](https://github.com/drifter1/quartus-tcl-examples) : Quartus® Prime Lite Edition Design Software TCL Examples
+- [/quartus-tcl-examples](https://github.com/drifter1/quartus-tcl-examples) : Quartus® Prime Lite Edition Design Software Tcl Examples
 - [/fsm2hdl](https://github.com/drifter1/fsm2hdl) : Extensible Python Framework for Generating Synthesizable HDL for FSMs
 
 ---
